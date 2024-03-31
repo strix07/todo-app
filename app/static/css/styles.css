@@ -1,0 +1,19 @@
+:root {
+  --bg-color: #1f242d;
+  --second-bg-color: #323946;
+  --text-color: #fff;
+  --main-color: #0ef;
+  --main2-color: #37a1f2;
+}
+
+.background {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+.square {
+  background-color: var(--second-bg-color);
+  color: var(--text-color);
+}
+.background {
+  background-color: var(--bg-color);
+}
